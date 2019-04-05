@@ -1,0 +1,20 @@
+{
+  "name": "gufflessvue",
+  "version": "1.0.0",
+  "description": "Vue project template without the guff",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --config webpack.config.js --mode=production"
+  },
+  "author": "Mark Ireland",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^2.1.1",
+    "style-loader": "^0.23.1",
+    "vue": "^2.6.10",
+    "vue-loader": "^15.7.0",
+    "vue-template-compiler": "^2.6.10",
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.3.0"
+  }
+}
