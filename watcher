@@ -1,0 +1,1 @@
+nodemon --ext js,vue,css --ignore dist --exec "webpack --config webpack.config.js"
